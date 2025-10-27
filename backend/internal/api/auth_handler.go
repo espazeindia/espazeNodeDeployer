@@ -1,8 +1,8 @@
 package api
 
 import (
-	"github.com/espaze/espazeNodeDeployer/internal/domain/entities"
-	"github.com/espaze/espazeNodeDeployer/internal/usecase"
+	"github.com/espazeindia/espazeNodeDeployer/internal/domain/entities"
+	"github.com/espazeindia/espazeNodeDeployer/internal/usecase"
 	"github.com/gofiber/fiber/v2"
 )
 

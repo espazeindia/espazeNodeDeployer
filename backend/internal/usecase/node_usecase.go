@@ -9,9 +9,9 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/espaze/espazeNodeDeployer/internal/domain/entities"
-	"github.com/espaze/espazeNodeDeployer/internal/k8s"
-	"github.com/espaze/espazeNodeDeployer/internal/repository"
+	"github.com/espazeindia/espazeNodeDeployer/internal/domain/entities"
+	"github.com/espazeindia/espazeNodeDeployer/internal/k8s"
+	"github.com/espazeindia/espazeNodeDeployer/internal/repository"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 

@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/espaze/espazeNodeDeployer/internal/k8s"
+	"github.com/espazeindia/espazeNodeDeployer/internal/k8s"
 )
 
 type MetricsUseCase interface {

@@ -3,7 +3,7 @@ package api
 import (
 	"strconv"
 
-	"github.com/espaze/espazeNodeDeployer/internal/usecase"
+	"github.com/espazeindia/espazeNodeDeployer/internal/usecase"
 	"github.com/gofiber/fiber/v2"
 )
 

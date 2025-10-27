@@ -1,4 +1,4 @@
-module github.com/espaze/espazeNodeDeployer
+module github.com/espazeindia/espazeNodeDeployer
 
 go 1.21
 

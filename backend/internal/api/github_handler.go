@@ -3,8 +3,8 @@ package api
 import (
 	"strconv"
 
-	"github.com/espaze/espazeNodeDeployer/internal/domain/entities"
-	"github.com/espaze/espazeNodeDeployer/internal/usecase"
+	"github.com/espazeindia/espazeNodeDeployer/internal/domain/entities"
+	"github.com/espazeindia/espazeNodeDeployer/internal/usecase"
 	"github.com/gofiber/fiber/v2"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )

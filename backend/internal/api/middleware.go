@@ -3,7 +3,7 @@ package api
 import (
 	"strings"
 
-	"github.com/espaze/espazeNodeDeployer/pkg/auth"
+	"github.com/espazeindia/espazeNodeDeployer/pkg/auth"
 	"github.com/gofiber/fiber/v2"
 )
 

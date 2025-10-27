@@ -5,9 +5,9 @@ import (
 	"errors"
 	"time"
 
-	"github.com/espaze/espazeNodeDeployer/internal/domain/entities"
-	"github.com/espaze/espazeNodeDeployer/internal/repository"
-	"github.com/espaze/espazeNodeDeployer/pkg/auth"
+	"github.com/espazeindia/espazeNodeDeployer/internal/domain/entities"
+	"github.com/espazeindia/espazeNodeDeployer/internal/repository"
+	"github.com/espazeindia/espazeNodeDeployer/pkg/auth"
 	"golang.org/x/crypto/bcrypt"
 )
 

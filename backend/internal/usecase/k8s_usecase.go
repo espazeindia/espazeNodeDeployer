@@ -3,7 +3,7 @@ package usecase
 import (
 	"context"
 
-	"github.com/espaze/espazeNodeDeployer/internal/k8s"
+	"github.com/espazeindia/espazeNodeDeployer/internal/k8s"
 	corev1 "k8s.io/api/core/v1"
 )
 

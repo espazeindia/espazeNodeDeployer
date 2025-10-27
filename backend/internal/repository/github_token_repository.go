@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/espaze/espazeNodeDeployer/internal/domain/entities"
+	"github.com/espazeindia/espazeNodeDeployer/internal/domain/entities"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"

@@ -3,9 +3,9 @@ package usecase
 import (
 	"context"
 
-	"github.com/espaze/espazeNodeDeployer/internal/domain/entities"
-	"github.com/espaze/espazeNodeDeployer/internal/github"
-	"github.com/espaze/espazeNodeDeployer/internal/repository"
+	"github.com/espazeindia/espazeNodeDeployer/internal/domain/entities"
+	"github.com/espazeindia/espazeNodeDeployer/internal/github"
+	"github.com/espazeindia/espazeNodeDeployer/internal/repository"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 
