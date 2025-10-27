@@ -281,6 +281,12 @@ rm -rf node_modules package-lock.json
 npm install
 ```
 
+## Repository
+
+**GitHub**: https://github.com/espazeindia/espazeNodeDeployer  
+**Organization**: espazeindia  
+**Visibility**: Private
+
 ## Contributing
 
 1. Fork the repository

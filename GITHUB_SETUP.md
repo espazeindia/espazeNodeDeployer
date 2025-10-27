@@ -77,7 +77,9 @@ git push -u origin master
 - ⏳ Waiting for GitHub authentication
 
 **Repository Details:**
+- **Organization**: espazeindia
 - **Name**: espazeNodeDeployer
+- **Full Path**: github.com/espazeindia/espazeNodeDeployer
 - **Visibility**: Private
 - **Default Branch**: master
 - **Files**: 64 tracked files
@@ -105,11 +107,12 @@ The repository includes:
 ## 📚 After Pushing
 
 Once pushed, you can:
-1. Clone on other machines
+1. Clone on other machines: `git clone https://github.com/espazeindia/espazeNodeDeployer.git`
 2. Collaborate with team members
 3. Set up GitHub Actions for CI/CD
 4. Enable GitHub Pages for documentation
 5. Configure branch protection rules
+6. View at: https://github.com/espazeindia/espazeNodeDeployer
 
 ---
 
